@@ -1,0 +1,6 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/es/posts/templates/variables/apps-referrer/"
+versions:
+  # Latest version
+  - sha: aefff47d35911f9412eed57e1f91ac7b229329ec
+    changeNotes: Initial release.
